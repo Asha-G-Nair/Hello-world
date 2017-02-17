@@ -2,4 +2,5 @@
 main()
 {
   prinf(" this is my first pgm");
+  return(0)
 }
